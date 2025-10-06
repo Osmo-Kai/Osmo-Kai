@@ -46,7 +46,7 @@ I love challenges, continuous learning, and creating solutions that make an impa
 ---
 
 ## 📫 Contact Me
-📧 **Email:** moscosojhoenaldg@gmail.com  
+📧 **Email:** osmokai@gmail.com 
 📍 **Location:** Philippines  
 
 ---
