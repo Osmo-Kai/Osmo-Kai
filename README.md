@@ -1,11 +1,11 @@
-# 👨‍💻 Jhoenald G. Moscoso
+# 👨‍💻 Osmo Kai
 
 **Full Stack Developer | Problem Solver | Tech Enthusiast**
 
 ---
 
 ## 🚀 About Me
-Hi, I’m **Jhoenald** 👋  
+Hi, I’m **Osmo** 👋  
 I’m a Full Stack Developer who enjoys turning ideas into functional and beautiful digital solutions. I work across the stack—from building responsive frontends to designing robust backends and APIs.  
 
 When I’m not coding, you’ll probably find me:  
